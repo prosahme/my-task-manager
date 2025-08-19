@@ -2,6 +2,7 @@ import React from "react";
 import Home from "./pages/Home.jsx";
 import Header from "./components/Layout/Header.jsx";
 import Footer from "./components/Layout/Footer.jsx";
+import "./App.css";
 
 export default function App() {
   return (
